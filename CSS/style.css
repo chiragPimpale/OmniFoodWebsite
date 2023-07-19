@@ -148,6 +148,10 @@ body {
   margin-right: -1.6rem;
 }
 
+.delivered-faces img:last-child {
+  margin: 0;
+}
+
 .delivered-text {
   font-size: 1.8rem;
   font-weight: 600;
