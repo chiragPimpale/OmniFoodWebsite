@@ -143,3 +143,8 @@ body {
   height: 4.8rem;
   border-radius: 50%;
 }
+
+.delivered-text {
+  font-size: 1.8rem;
+  font-weight: 600;
+}
