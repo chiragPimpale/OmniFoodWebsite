@@ -125,6 +125,31 @@ body {
 .logo {
   height: 2.2rem;
 }
+
+/*******************************/
+/* Navigation*/
+/*******************************/
+
+.main-nav-list {
+  display: flex;
+  gap: 3.2rem;
+  list-style: none;
+}
+
+.main-nav-link:link,
+.main-nav-link:visited {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+  font-size: 1.8rem;
+  transition: all 0.3s;
+}
+
+.main-nav-link:hover,
+.main-nav-link:active {
+  color: #cf711f;
+  padding-right: 2px;
+}
 /*******************************/
 /* Hero Section */
 /*******************************/
