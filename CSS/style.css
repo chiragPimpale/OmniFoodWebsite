@@ -130,3 +130,16 @@ body {
 .margin-right-sm {
   margin-right: 1.6rem !important;
 }
+
+.delivered-meals {
+  display: flex;
+}
+
+.delivered-faces {
+  display: flex;
+}
+
+.delivered-faces img {
+  height: 4.8rem;
+  border-radius: 50%;
+}
